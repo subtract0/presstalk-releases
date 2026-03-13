@@ -1,0 +1,12 @@
+# PressTalk Releases
+
+Public binary releases for PressTalk.
+
+Install with Homebrew:
+
+```bash
+brew tap subtract0/presstalk
+brew install --cask presstalk
+```
+
+The installed app remains `JarvisTap.app` so existing macOS permissions survive updates.
